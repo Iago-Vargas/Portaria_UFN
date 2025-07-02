@@ -43,13 +43,16 @@ O projeto tem como objetivo facilitar a rotina do porteiro da faculdade, permiti
 
 ## 👨‍💻 Desenvolvedores
 
-**Nome:** Iago Vargas  
-**Nome:** Bruno Difante
-**Nome:** Gabriel Maier Teixeira
-**Nome:** Vicenzo de Souza
+| Nome                    | GitHub                                              | LinkedIn                                           |
+|-------------------------|-----------------------------------------------------|----------------------------------------------------|
+| Iago Vargas             | [@Iago-Vargas](https://github.com/Iago-Vargas)     | [linkedin.com/in/iago-vargas](https://linkedin.com/in/iago-vargas) |
+| Bruno Difante           | [@bruno-difante](https://github.com/bruno-difante) | [linkedin.com/in/bruno-difante](https://linkedin.com/in/bruno-difante) |
+| Gabriel Maier Teixeira  | [@gabrielmaier](https://github.com/Teixeirx)   | [linkedin.com/in/gabriel-teixeira](https://www.linkedin.com/in/gabriel-teixeira-088a612ba/) |
+| Vicenzo de Souza        | [@vicenzosouza](https://github.com/vitfbpa)   | [linkedin.com/in/vicenzo-de-souza-milanesi](https://www.linkedin.com/in/vicenzo-de-souza-milanesi-189062267/) |
+
 **Curso:** Ciência da Computação - Universidade Franciscana (UFN)  
-**Semestre:** 5º  
-**GitHub:** [@Iago-Vargas](https://github.com/Iago-Vargas)
+**Semestre:** 5º
+
 
 ---
 
@@ -57,5 +60,4 @@ O projeto tem como objetivo facilitar a rotina do porteiro da faculdade, permiti
 
 Este projeto foi desenvolvido para fins acadêmicos e educacionais.  
 Sinta-se à vontade para utilizar como referência, mas cite a fonte.
-
 
